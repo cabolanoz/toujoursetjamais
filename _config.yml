@@ -17,7 +17,7 @@ title: Toujours et Jamais
 email: cesar.bolanos.andino@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ce blog a pour but de publier le parcours de ma carrière pour apprendre la langue française et différents histoires que j'ai vécues à travers les voyages.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "toujoursetjamais" # the subpath of your site, e.g. /blog
 url: "https://toujoursetjamais.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cabolanoz
 github_username: cabolanoz
