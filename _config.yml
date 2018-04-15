@@ -32,8 +32,8 @@ plugins:
 assets:
   digest: true
   compress:
-    css:  true
-    js:   uglifier
+    css: true
+    js: uglifier
   autoprefixer:
     browsers:
       - "> 1%"
@@ -41,13 +41,13 @@ assets:
       - "IE > 9"
   prefix: "/assets"
   sources:
-    - _assets/
-    - _assets/js
-    - _assets/css
-    - _assets/javascript
-    - _assets/stylesheets
-    - _assets/img
-    - _assets/fonts
+    - assets/
+    - assets/js
+    - assets/css
+    - assets/javascript
+    - assets/stylesheets
+    - assets/img
+    - assets/fonts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
