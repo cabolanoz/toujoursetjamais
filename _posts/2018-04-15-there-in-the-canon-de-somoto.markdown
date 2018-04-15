@@ -4,7 +4,7 @@ title: "Là, dans le Cañón de Somoto"
 date: 2018-04-14 21:00:00 -0600
 categories: voyage nicaragua
 ---
-![canon-de-somoto](/assets/img/1.jpg){:class="img-responsive"}
+![canon-de-somoto]({{ site.baseurl }}/assets/img/1.jpg){:class="img-responsive"}
 
 Cette fois j'ai decidé d'acheter un billet pour voyager au [Cañón de Somoto](https://es.wikipedia.org/wiki/Monumento_nacional_Ca%C3%B1%C3%B3n_de_Somoto) avec un tour-opérateur.
 
@@ -32,7 +32,7 @@ Alors, certains ont décidé de grimper et d'autres (moi compris) ont décidé d
 Certaines zones du canyon étaient assez rocheuses et nous devions faire très attention. D'autres zones étaient assez élevées, alors, nous avons donc dû sauter dans l'eau. Certaines personnes si elles savaient nager, mais j'ai dû improviser :sunglasses:
 Nous avons pris beaucoup de photos et nous avons apprécié le beau paysage. C'était une aventure et la meilleure partie était que je ne me suis pas noyé :relieved:
 
-![canon-de-somoto](/assets/img/2.jpg){:class="img-responsive"}
+![canon-de-somoto]({{ site.baseurl }}/assets/img/2.jpg){:class="img-responsive"}
 
 Quand nous avons arrivé à la fin de la route, nous sommes allés déjeuner. Nous étions très fatigués mais heureux pour l'aventure vécue.
 
